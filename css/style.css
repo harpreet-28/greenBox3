@@ -1,0 +1,134 @@
+div#parentBox {
+    width: 995px;
+    border: none;
+    height: auto;
+    margin: none;
+    text-align: center;
+}
+
+div.colorDiv {
+    color: #F2EBD0;
+}
+
+div#boxOne {
+    width: 995px;
+    border: none;
+    height: 70px;
+    background: #00a651;
+    margin: 0px;
+    text-align: center;
+    line-height: 70px;
+}
+
+div#boxTwo {
+    width: 995px;
+    border: none;
+    height: 500px;
+    background: #7cc576;
+    margin: none;
+    text-align: center;
+    line-height: 500px;
+}
+
+div#boxThree {
+    width: 995px;
+    border: none;
+    height: 490px;
+    margin: 0px;
+    background: white;
+    text-align: center;
+    line-height: 490px;
+   
+}
+
+div.first {
+    width: 327px;
+    height: 470px;
+    margin: none;
+    border: none;
+    float:left;
+}
+
+div.subOneA {
+    width: 327px;
+    height: 235px;
+    margin: 5px 10px 5px 5px ;
+    border: none;
+    background: #00a651;
+    float: left;
+}
+
+div.subTwoA {
+    width: 327px;
+    height: 235px;
+    margin: 0px 10px 5px 5px;
+    border: none;
+    background: #00a651;
+   float: left;
+
+}
+
+div.second {
+    width: 327px;
+    height: 470px;
+    margin: none;
+    border: none;
+    float:left;
+}
+
+div.subOneB {
+    width: 327px;
+    height: 235px;
+    margin: 5px 0px 5px 10px;
+    border: none;
+    background: #00a651;
+    float:left;
+}
+
+div.subTwoB {
+    width: 327px;
+    height: 235px;
+    margin: 0px 0px 5px 10px;
+    border: none;
+    background: #00a651;
+    float: left;
+
+}
+
+div.third {
+    width: 327px;
+    height: 470px;
+    margin: none
+    border: none;
+    float:right;
+}
+
+div.subOneC {
+    width: 327px;
+    height: 235px;
+    margin: 5px 5px 5px 0px;
+    border: none;
+    background: #00a651;
+    float:left;
+}
+
+div.subTwoC {
+    width: 327px;
+    height: 235px;
+    margin: 0px 5px 5px 0px;
+    border: none;
+    background: #00a651;
+    float: left;
+
+}
+
+div#boxFour {
+    width: 995px;
+    height: 150px;
+    border: none;
+    margin: none;
+    background: #00a651;
+    text-align: center;
+    line-height: 150px;
+   float: left;
+}
